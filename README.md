@@ -14,13 +14,13 @@ Please add [Main Luna Ticker Bot](https://discord.com/api/oauth2/authorize?clien
     available interval "1m", "3m", "5m", "15m", "30m", "1h", "4h", "12h", "1d"
 
 ### Market Cap Bot
-1. [Luna/Eur Market Cap Bot](https://discord.com/api/outh2/authorize?client_id=909331887342891009&scope=bot)
+1. [Luna/Eur Market Cap Bot](https://discord.com/api/oauth2/authorize?client_id=909331887342891009&scope=bot)
 
 ### Circulation Supply Bot
-1. [Luna/Eur Circulation Supply Bot](https://discord.com/api/outh2/authorize?client_id=911135992260472842&scope=bot)
+1. [Luna/Eur Circulation Supply Bot](https://discord.com/api/oauth2/authorize?client_id=911135992260472842&scope=bot)
 
 ### Price Bot
-1. [Luna/Eur Price Bot](https://discord.com/api/outh2/authorize?client_id=911136151404937286&scope=bot)
-2. [Anc/Eur Price Bot](https://discord.com/api/outh2/authorize?client_id=911136194346250251&scope=bot)
-3. [bLuna/Eur Price Bot](https://discord.com/api/outh2/authorize?client_id=911136218484457555&scope=bot)
-4. [Mir/Eur Price Bot](https://discord.com/api/outh2/authorize?client_id=911136243537051688&scope=bot)
+1. [Luna/Eur Price Bot](https://discord.com/api/oauth2/authorize?client_id=911136151404937286&scope=bot)
+2. [Anc/Eur Price Bot](https://discord.com/api/oauth2/authorize?client_id=911136194346250251&scope=bot)
+3. [bLuna/Eur Price Bot](https://discord.com/api/oauth2/authorize?client_id=911136218484457555&scope=bot)
+4. [Mir/Eur Price Bot](https://discord.com/api/oauth2/authorize?client_id=911136243537051688&scope=bot)
