@@ -4,6 +4,8 @@
 This is a discord ticker bot to show asset information of luna blockchain.
 
 Please add [Main Luna Ticker Bot](https://discord.com/api/oauth2/authorize?client_id=900726103948267580&permissions=534992255040&scope=bot%20applications.commands) bot to discord channel which supports below commands.
+
+[Permission](https://discordapi.com/permissions.html#534992255040) :- Messages, Manage Roles
 1. ``price``
     Input :- luna/eur , eth/ust , luna 
     Response :- Coinhall format price information, if no 2nd symbol is provided, it will respond with default ust pair.
